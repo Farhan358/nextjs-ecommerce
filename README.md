@@ -1,12 +1,12 @@
 # Shopco
 
-Shopco is an fully responsive e-commerce front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
+Shopco is a fully responsive e-commerce front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
 
 
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo](nextjs-ecommerece.vercel.app)
 
 
 ## Technologies
