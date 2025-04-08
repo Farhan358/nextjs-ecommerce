@@ -26,7 +26,7 @@ To get started with Shopco locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
+   git clone https://github.com/Farhan358/nextjs-ecommerce.git
    cd next-ecommerce-shopco
    ```
 
